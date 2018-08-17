@@ -62,3 +62,7 @@ textarea {
   font-weight: bold;
   color: tomato;
 }
+
+.command {
+  font-size: 12px;
+}
